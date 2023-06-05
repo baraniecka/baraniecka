@@ -1,4 +1,5 @@
-### Hi there 👋
+## Hi there 👋 Julia's here!
+I’m currently learning how to code in Java. After few years of working as shop assistant I've decided to gain new skills and try something different. I've got an opportunity to attend on *Java from Scratch* bootcamp run by Software Developement Acadamy via Orange Fundation. With artistic background (in my free time I paint a lot) I love to combine creativity with logical thinking. I'm looking for a first commercial experience in coding.
 
 <!--
 **baraniecka/baraniecka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
